@@ -1,3 +1,3 @@
-export const title = "Mini App Factory App";
-export const description = "This app was created by the Mini App Factory!";
+export const title = "Edge 22 – Fast Strategic Card Game";
+export const description = "Edge 22 is a fast, strategic card game inspired by Blackjack but built with completely new rules, special cards, and a fresh scoring system. The goal is to reach as close to 22 as possible without going over. Players compete against an AI dealer, so the game is always playable even when no other players are online. The deck includes traditional cards plus a few unique cards like Boost, Swap, Reverse, and Shield, which create exciting strategy moments and give players more control than classic Blackjack. The dealer follows fixed logic while the player can choose to Hit, Stand, or use special cards, making every round fun, quick, and skill-based. “Edge 22” is designed for casual gamers who enjoy card games but want something new, simple, and highly replayable.";
 export const url = process.env.NEXT_PUBLIC_URL;
